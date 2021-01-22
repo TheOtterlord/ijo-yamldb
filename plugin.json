@@ -1,0 +1,9 @@
+{
+  "name": "YAML Database",
+  "author": "Reuben Tier",
+  "npmDependencies": {
+    "js-yaml": "^4.0.0",
+    "ijo-utils": "github:ijo-sm/ijo-utils"
+  },
+  "index": "src/index.js"
+}
